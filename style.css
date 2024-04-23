@@ -301,6 +301,12 @@ article {
   height: 90%;
 }
 
+.project-img:hover{
+  transform: scale(1.01); 
+  transition: transform 0.3s ease;
+}
+
+
 .color-container,
 .contact-info-upper-container,
 .details-container {
