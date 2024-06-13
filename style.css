@@ -103,8 +103,8 @@ nav {
   height: 17vh;
 }
 
-.logo {
-  font-size: 2rem;
+.logo img {
+  width: 2rem;
 }
 
 .nav-links {
